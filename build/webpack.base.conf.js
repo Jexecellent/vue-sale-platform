@@ -1,3 +1,7 @@
+/**
+ *  webpack  ^1.13.2
+ */
+
 var path = require('path')
 var config = require('../config')
 var utils = require('./utils')
